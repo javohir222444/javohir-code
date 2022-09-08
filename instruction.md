@@ -1,0 +1,23 @@
+## Git
+
+1. Check git (dowload from)
+2. intialize git repoitory
+```
+git init
+```
+
+changes, commit
+
+`U` -> yangi
+
+`A` -> added ( qoshilgan )
+
+`D` -> delete ( ochirilgan )
+
+`M` -> modified ( ozgartirilgan )
+
+Taxrihga qoshish
+
+```
+git add <filname>
+```
