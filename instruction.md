@@ -21,3 +21,9 @@ Taxrihga qoshish
 ```
 git add <filname>
 ```
+
+Commit qilish
+
+```
+git commit -m :"izoh"
+```
